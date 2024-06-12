@@ -1,5 +1,5 @@
 # Alexa-HackTheOctober-2
---------------
+
 ## Contributing Guidlines:
 
 **Following are the steps to add your Alexa Skills to this Repository:** ⬇️
